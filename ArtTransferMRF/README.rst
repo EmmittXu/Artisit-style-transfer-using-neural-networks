@@ -19,5 +19,3 @@ To provide customized parameters, use
 
     The input is cropped to 128x128 pixel, the user can further modify the input cropping pixel dimension
     by diving into the source code of MyStyleTranferMRF.py
-
-Thank you TAs and Professor!
